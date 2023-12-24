@@ -1,4 +1,4 @@
-# AOC 2023 day 7 part 1
+# AOC 2023 day 7 part 2
 import pandas as pd
 from pandas.api.types import CategoricalDtype
 
